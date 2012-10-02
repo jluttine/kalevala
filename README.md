@@ -7,7 +7,7 @@ The screenplay is a text file using Fountain syntax (http://fountain.io/). Many 
 
 To create a PDF of the screenplay, use, for instance, textplay (https://github.com/olivertaylor/Textplay):
 
-    textplay --pdf kalevala.txt kalevala.pdf
+    textplay --pdf kalevala.fountain kalevala.pdf
 
 Or use other software, for instance, Trelby (https://github.com/oskusalerma/trelby).
     
